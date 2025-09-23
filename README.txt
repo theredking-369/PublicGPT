@@ -1,5 +1,5 @@
 Hello dear reader.
-This repo is my own personal student project where I made my own personal ChatGPT styled chatbot named KennyGPT.
+This repo is my little student project where I made my own personal ChatGPT styled chatbot named KennyGPT.
 This is a public version of my repo where I have deleted things such as my APIs and local host hyperlinks.
 this model is used for my own azure deployed model.
 If you would like to test this model for yourself and you have a deployed model you can set your things in "appsettings.json".
